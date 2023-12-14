@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LZIOSAD'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A short description of LZIOSAD.'
   s.requires_arc     = true
   
