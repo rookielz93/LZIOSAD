@@ -7,8 +7,8 @@ sources = [
           #'https://github.com/YinTokey/Egen.git',
           ]
 
-project_name = 'LZIOSCommon'
-podspec_file_name = 'LZIOSCommon.podspec'
+project_name = 'LZIOSAD'
+podspec_file_name = 'LZIOSAD.podspec'
 
 # ==================================================================
 
